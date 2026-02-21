@@ -22,9 +22,9 @@ to perform banking operations.
 - Object Interaction
 
 ## How to Run
-javac ATM.java
+javac Atm.java
 
-java ATM
+java Atm
 
 ## Default PIN
 1234
